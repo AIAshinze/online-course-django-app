@@ -88,6 +88,7 @@ python manage.py runserver
 
 ## Project Structure
 
+```text
 online-course-django-app/
 ├── myproject/              # Django project configuration
 │   ├── settings.py
@@ -110,6 +111,7 @@ online-course-django-app/
 ├── static/                 # Static files (CSS, JS, images)
 ├── manage.py              # Django management script
 └── requirements.txt       # Python dependencies
+```
 
 ## Models
 
